@@ -1,7 +1,7 @@
 # Human-Activity-Recognition-with-Smartphone-Data
 
 ## Description
-This project utilizes data from a study where 30 participants performed daily activities while carrying a smartphone equipped with inertial sensors. The goal is to classify activities into six categories using machine learning techniques.
+This project utilizes data from a study where 30 participants performed daily activities while carrying a smartphone equipped with inertial sensors. The goal is to classify activities into six categories using machine learning techniques. 
 
 ## Dataset
 The **Human Activity Recognition (HAR) dataset** consists of sensor data collected from a **Samsung Galaxy S II** smartphone placed at the participant's waist. The dataset contains:
